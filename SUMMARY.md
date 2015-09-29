@@ -1,6 +1,6 @@
 # Summary
 
 * Gitbook on learning Rstudio
-* Introduction
+* [Introduction](introduction.md)
    * here
 
